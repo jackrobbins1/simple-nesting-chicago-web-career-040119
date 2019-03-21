@@ -84,8 +84,8 @@ def adding_matz
      }
 
 	 programmer_hash[yukihiro_matsumoto: {
-		 known_for: "COBOL",
-		 languages: ["Lisp", "C"]
+		 known_for: "Ruby",
+		 languages: ["LISP", "C"]
 		 }]
 end
 
